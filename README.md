@@ -3,7 +3,7 @@
 [![Open to Work](https://img.shields.io/badge/Open-to%20Work-green?style=for-the-badge)](https://www.linkedin.com/in/greg-klimanov-3262a1349/)
 
 Welcome to my GitHub profile — you probably found it through a link, right? 👀  
-I'm a **QA Engineer** passionate about automation and always learning something new.
+I'm a **QA Engineer** with experience passionate about automation and always learning something new.
 
 As a visitor, you can check out my [**autotests project**](https://github.com/NicePotatoSalad/qa_playground_automation) showcasing my skills and work methods!
 
@@ -25,7 +25,7 @@ Currently:
 
 ## 🎯 Goals
 
-- Find a QA job
+- Find a QA job and show my skills in practice
 - Get comfortable writing autotests with modern technologies
 - Become a mid-level QA engineer
 
@@ -45,10 +45,10 @@ Currently:
 - Petting random street cats because... free will and long arms 🐈
 - Deep-diving into random topics (Quantum Field Theory, anyone?) 🌌
 - Listening to all genres of music — and somehow still getting tired of them 🎧
-- Cooking fabulous meals and *gracefully* accepting compliments 🍝
+- Cooking fabulous meals and (and humbly accepting compliments for them). 🍝
 - Learning new languages — because why limit who you can annoy? 🌍
 - Watching cartoons and series (still waiting for **Gravity Falls Season 3** 😢)
-- Finding joy in life, even when it’s tough (yes, I understood that reference)
+- Finding joy in life, even when it’s tough (cue *Game of Thrones* reference)
 
 ---
 
