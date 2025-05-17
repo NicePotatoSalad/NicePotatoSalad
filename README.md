@@ -19,15 +19,15 @@ As a visitor, you can check out my [**autotests project**](https://github.com/Ni
 Currently:
 - 🔥 Writing autotests for the open-source project **QA Automation Playground**
 - 🚀 Learning **Playwright** and **CI/CD** practices
-- 🎯 Actively **looking for a QA job** (and for people who believe Juniors have real potential!)
+- 🎯 Actively **looking for a QA job**
 
 ---
 
 ## 🎯 Goals
 
-- Find a QA job and show my skills in practice
-- Get comfortable writing autotests with modern technologies
-- Become a mid-level QA engineer
+- Find a QA job with a cool modern team
+- Get comfortable writing autotests with modern technologies like Playwright
+- Become a Midlle-level QA engineer
 
 ---
 
