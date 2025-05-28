@@ -11,31 +11,33 @@ As a visitor, you can check out my [**autotests project**](https://github.com/Ni
 
 ## 🧠 About Me
 
-- 🐍 I code mainly in **Python**, using **Selenium** (currently diving into **Playwright** too!)
-- ⚙️ Frequently use libraries like **pytest** and **requests**
-- 👨‍💻 Big background in **Pascal** programming
-- 🎮 Previously did **game development** in **Unity (C#)**
+- 🐍 I write **Python-based** UI & API autotests for complex web platforms
+- 🧪 My main **AQA** stack: **Pytest**, **requests**, **Playwright**, **Selenium**
+- 🛠️ Actively use **GitLab CI**, **Docker**, **pgAdmin**, **Charles**
+- 📊 Focus on **backend-heavy testing**, API coverage, and edge-case scenarios
+- 🌐 Strong grasp of HTTP, client-server architecture, and SQL
 
 Currently:
-- 🔥 Writing autotests for the open-source project **QA Automation Playground**
-- 🚀 Learning **Playwright** and **CI/CD** practices
-- 🎯 Actively **looking for a QA job**
+
+- 👨🏻‍💻 Learning advanced Python programming
+- 🔍 Expanding coverage for **critical API endpoints** and edge flows
+- 🚀 Studying advanced CI/CD practices and container orchestration
 
 ---
 
 ## 🎯 Goals
 
-- Find a QA job with a cool modern team
-- Get comfortable writing autotests with modern technologies like Playwright
-- Become a Midlle-level QA engineer
+- Level up from Middle Full-Stack to **Pre-Senior Full-Stack QA**
+- Contribute to scalable, production-grade **test architecture**
+- Explore property-based and contract testing approaches
 
 ---
 
 ## 🤝 How You Can Help Me
 
-- 🤝 Mentoring
-- 🔗 Referrals
-- 🎯 Giving me a chance to show myself
+- 💬 Sharing feedback on my test approaches and strategies
+- 🧭 Inviting me to collaborate on mid-to-large scale QA projects
+- 🔗 Referrals to strong backend-focused teams
 
 ---
 
